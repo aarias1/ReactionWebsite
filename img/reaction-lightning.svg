@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="reaction-lightning.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-336.2497"
+     inkscape:cy="440"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-147)">
+    <path
+       style="opacity:1;fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:4.34571266;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57.656838,168.26906 c -29.382498,9.57837 -45.436879,41.16243 -35.858425,70.54489 3.304892,10.12758 9.43209,19.10132 17.661464,25.86648 L 62.698845,225.4808 37.308608,233.75778 120.99684,151.17081 97.793906,170.43605 69.626702,193.82367 94.646584,169.133 C 82.77133,164.65904 69.728023,164.35441 57.656838,168.26906 Z m 52.883042,9.99267 -23.238585,39.1989 25.390235,-8.27696 -83.688235,82.58696 23.202933,-19.26525 12.675172,-10.524 15.492215,-12.86307 -25.020068,24.69013 c 11.875258,4.47394 24.918567,4.77858 36.989752,0.86394 29.382491,-9.57837 45.436871,-41.16243 35.858421,-70.54489 -3.30511,-10.12737 -9.43244,-19.10083 -17.66184,-25.86576 z"
+       id="path825"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.97257233px;line-height:0;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.32039571px;word-spacing:0px;fill:#2c89a0;fill-opacity:1;stroke:none;stroke-width:0.44948572"
+       x="2.8144493"
+       y="120.54691"
+       id="text867"
+       transform="scale(0.96625966,1.0349185)"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="2.8144493"
+         y="129.56258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:2.32039571px;word-spacing:0px;fill:#2c89a0;stroke-width:0.44948572" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Sansita;-inkscape-font-specification:Sansita;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="34.395832"
+       y="95.916664"
+       id="text905"><tspan
+         sodipodi:role="line"
+         id="tspan903"
+         x="34.395832"
+         y="109.675"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansita;-inkscape-font-specification:Sansita;stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4283886px;line-height:1.25;font-family:Ethnocentric;-inkscape-font-specification:Ethnocentric;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.4017823"
+       x="-0.49643454"
+       y="231.97888"
+       id="text824"><tspan
+         sodipodi:role="line"
+         id="tspan822"
+         x="-0.49643454"
+         y="231.97888"
+         style="fill:#ff6600;stroke-width:0.4017823">Reaction</tspan></text>
+  </g>
+</svg>
